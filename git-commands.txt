@@ -1,0 +1,4 @@
+//add files -> git add --all
+//commit -> git commit -m 'commit message'
+//push -> git push origin master
+
