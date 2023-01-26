@@ -1,5 +1,5 @@
 /**
---> this a solution of maximum sum interval problem
+--> this is a solution of maximum sum interval problem
 **/
 
 #include<stdio.h>
